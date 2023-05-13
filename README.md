@@ -1,0 +1,1 @@
+# ninja1-cache
